@@ -5,5 +5,5 @@
 <div align="center"><img src="https://github.com/AkashHiremath856/Data-Analysis-Projects/blob/main/Excel/Project%202%20xlsx.png"></div>
 <h2>Project 3 (Dashboard with Detailed Visualization)</h2>
 <div align="center"><img src="https://github.com/AkashHiremath856/Data-Analysis-Projects/blob/main/Excel/project%203%20xlsx.png"></div>
-<h2>Project 3 (Dashboard with Cards)</h2>
+<h2>Project 4 (Dashboard with Cards)</h2>
 <div align="center"><img src="https://github.com/AkashHiremath856/Data-Analysis-Projects/blob/main/Excel/project%204%20xlsx.jpg"></div>
