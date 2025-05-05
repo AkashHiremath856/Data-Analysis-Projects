@@ -8,4 +8,4 @@
 <h2>Project 4</h2>
 <div align="center"><img src="https://github.com/AkashHiremath856/Data-Analysis-Projects/blob/main/PowerBI/Project%204%20pbix.jpg"></div>
 <h2>Project 5</h2>
-<div align="center"><img src="https://github.com/AkashHiremath856/Data-Analysis-Projects/blob/main/PowerBI/Project%205%20pbix.jpg"></div>
+<div align="center"><img src="https://github.com/AkashHiremath856/Data-Analysis-Projects/blob/main/PowerBI/Project%205.jpg"></div>
